@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Dorob Gym Созидание
 
-# Run and deploy your AI Studio app
+Premium fitness destination in Dushanbe, Tajikistan.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/2c3b4a28-46a4-4fe3-8f86-816225db0187
+- **Elite Gym:** State-of-the-art strength and cardio equipment.
+- **Olympic Pool:** Professional training and relaxation.
+- **Personal Training:** Customized programs by elite coaches.
+- **Wellness & Spa:** Premium sauna and recovery zones.
+- **Multi-language Support:** Available in Tajik, Russian, and English.
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- **React 18**
+- **TypeScript**
+- **Tailwind CSS**
+- **Framer Motion** (for animations)
+- **Lucide React** (for icons)
 
+## Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Pranker-1337/Dorob-Gym.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## License
+
+This project is licensed under the MIT License.
