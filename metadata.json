@@ -1,0 +1,5 @@
+{
+  "name": "Dorob Gym Созидание",
+  "description": "Premium fitness and wellness center in Dushanbe. Experience luxury training, swimming, and personalized health coaching.",
+  "requestFramePermissions": ["geolocation"]
+}
